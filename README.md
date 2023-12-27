@@ -9,21 +9,27 @@ AIM:
 To create a book cover design using Html and Css code's
 
 Step1:
+
 Select an image from online and make it as background image
 
 Step2:
+
 Using vs code create a html and css files
 
 Step3:
+
 Try some designs and some font over the image
 
 Step4:
+
 Give the author name and photo down below the book cover
 
 Step5:
+
 Run the Html Program to see the results
 
 PROGRAM :
+
 book.css:
 ```
 body {
